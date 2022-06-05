@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi ,Welcome to my Github 👋
 
-<!--
-**KerolosAtef/KerolosAtef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm Kirolos Atef AI master's student at ottawa university | Data Scientist | Machine learning Engineer
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-Here are some ideas to get you started:
+<div id="badges">
+  <a href="https://www.linkedin.com/in/kirolos-atef-631755123/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue" alt="LinkedIn Badge" width=70 height=30/>
+  </a>
+  <a href="https://www.kaggle.com/kirolosatef">
+    <img src="https://img.shields.io/badge/-Kaggle-yellow" alt="Kaggle Badge" width=70 height=30/>
+  </a>
+  <a href="https://www.facebook.com/kero.atef.9406">
+    <img src="https://img.shields.io/badge/-Facebook-blue" alt="Facebook Badge" width=70 height=30 />
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
