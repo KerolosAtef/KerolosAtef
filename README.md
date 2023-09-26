@@ -1,6 +1,6 @@
-### Hi ,Welcome to my Github 👋
+### Hi, Welcome to my Github 👋
 
-### I'm Kirolos Atef AI master's student at ottawa university | Data Scientist | Machine learning Engineer
+### I'm Kirolos Atef Computer vision researcher at KAUST University | Computer Vision Engineer at Plaibook Company
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
