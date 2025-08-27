@@ -28,9 +28,9 @@
     <text x="52" y="27" font-family="Inter, Arial, sans-serif" font-weight="600" font-size="14" fill="#FFFFFF">Connect on LinkedIn</text>
 
     <!-- Hover animations -->
-    <animateTransform xlink:href="#badge" attributeName="transform" type="scale" additive="sum"
+    <animateTransform href="#badge" attributeName="transform" type="scale" additive="sum"
       begin="mouseover" dur="200ms" values="1;1.04;1" repeatCount="1"/>
-    <animate xlink:href="#badge" attributeName="filter" begin="mouseover" dur="600ms"
+    <animate href="#badge" attributeName="filter" begin="mouseover" dur="600ms"
       values="none;url(#glowBlue);none" repeatCount="1"/>
   </g>
 </svg>
