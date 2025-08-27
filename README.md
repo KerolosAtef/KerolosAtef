@@ -28,7 +28,7 @@ Passionate about bridging research and engineering to deliver impactful AI solut
     <img src="./assets/badges/kaggle.svg" alt="Kaggle" height="44">
   </a>
   <a href="https://scholar.google.com/citations?user=6gRlYHAAAAAJ&hl=en" target="_blank">
-    <img src="./assets/badges/scholar_2.svg" alt="Google Scholar" height="44">
+    <img src="./assets/badges/scholar.svg" alt="Google Scholar" height="44">
   </a>
 </div>
 
