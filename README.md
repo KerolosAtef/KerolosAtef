@@ -19,18 +19,19 @@ Passionate about bridging research and engineering to deliver impactful AI solut
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/kirolos-atef-631755123/" target="_blank">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2" alt="LinkedIn"/>
+    <img src="./assets/badges/linkedin.svg" alt="Connect on LinkedIn" height="44">
   </a>
   <a href="mailto:kirolosatef1997@gmail.com">
-    <img src="https://img.shields.io/badge/Email%20Me-%23D44638?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=E85C41" alt="Email"/>
+    <img src="./assets/badges/email.svg" alt="Email Me" height="44">
   </a>
   <a href="https://www.kaggle.com/kirolosatef" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-%2320BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=20BEFF&color=1CA9E9" alt="Kaggle"/>
+    <img src="./assets/badges/kaggle.svg" alt="Kaggle" height="44">
   </a>
   <a href="https://scholar.google.com/citations?user=6gRlYHAAAAAJ&hl=en" target="_blank">
-    <img src="https://img.shields.io/badge/Google%20Scholar-%234285F4?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=4285F4&color=356AC3" alt="Google Scholar"/>
+    <img src="./assets/badges/scholar_2.svg" alt="Google Scholar" height="44">
   </a>
 </div>
+
 
 
 ---
